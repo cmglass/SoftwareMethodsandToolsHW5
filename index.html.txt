@@ -1,0 +1,8 @@
+<html>
+	<p>1) The difference between and IaaS (Infrastructure as a Service) and PaaS (Platform as a Service) is that the platform offers less control compared to the Infrastructure, but is simpler and easier to use.  For example a hosting system would be an example of PaaS it offers an established database system, runtime enviornment to process code, etc.  Alternatively one could set this up themselves on an exisitng Infrastucture This ould basically be a physical system that hosts the data and offers a (virutal) machine to run it on.  It's like using store bought pancake mix vs home made pancake batter unless you need it to be homemade use the mix.  Sure you gain more freedom and control but you have to put in a lot more work and a lot more could go wrong.
+
+	</p>
+	<p>
+	2) Given the efficiency of operating “in the cloud” it seems like the place to do everything.  The obvious concerns are security and access.  If all of the eggs, not just yours, are behind the same lock then it becomes the lock to break.  Sure, these larger companies are better suited to do security than a small company, but they also create clear targets.  A similar idea exists with access.  These large companies create access efficiencies and do so better than most small companies but occasionally you might have a small issue that doesn't get addressed by a big company right away. Of course these issues also apply to the fundamentals of cloud computing.  If the data is stored in the device then all the devices must be cracked individually to get the data as opposed to a server. Similarly if the data is stored on the device losing contact with a server is not catastrophic.
+	</p>
+</html>
